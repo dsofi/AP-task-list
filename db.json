@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar primer modulo de Angular",
+      "day": "Agosto 5 a las 12:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Agregar algo",
+      "day": "Agosto 9 a las 18:00",
+      "reminder": true
+    },
+    {
+      "text": "Hola es una prueba",
+      "day": "Jueves 22:00hs",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "Viernes 23:00hs",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
