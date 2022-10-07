@@ -1,0 +1,12 @@
+.about{
+    text-align: center;
+}
+
+.about h2, .about h4{
+    display: inline;
+}
+
+.about a{
+    display: block;
+}
+

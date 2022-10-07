@@ -2,27 +2,45 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Terminar primer modulo de Angular",
-      "day": "Agosto 5 a las 12:00",
+      "text": "Terminar primer módulo de Angular",
+      "day": "05 de Agosto - 19:00hs",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Comenzar módulo 4",
+      "day": "10 de Agosto - 20:00hs",
       "reminder": true
     },
     {
       "id": 3,
-      "text": "Agregar algo",
-      "day": "Agosto 9 a las 18:00",
+      "text": "Leer libro sociología",
+      "day": "12 de Agosto - 19:00hs",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Terminar TPN°9",
+      "day": "15 de Agosto - 18:00hs",
       "reminder": true
     },
     {
-      "text": "Hola es una prueba",
-      "day": "Jueves 22:00hs",
-      "reminder": true,
+      "text": "Prueba número 2",
+      "day": "05 de Septiembre - 20:30hs",
+      "reminder": false,
       "id": 6
     },
     {
-      "text": "Nueva tarea",
-      "day": "Viernes 23:00hs",
-      "reminder": false,
+      "text": "Está funcionando bien.. creo",
+      "day": "10 de Septiembre - 21:00hs",
+      "reminder": true,
       "id": 7
+    },
+    {
+      "text": "Tarea sin día ni horario",
+      "day": "",
+      "reminder": false,
+      "id": 8
     }
   ]
 }

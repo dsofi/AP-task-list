@@ -33,7 +33,6 @@ export class TasksItemComponent implements OnInit {
     this.onToggleReminder.emit(task);
   }
 
-  //minuto
 
   
 

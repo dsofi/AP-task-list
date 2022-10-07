@@ -18,7 +18,7 @@ export class AddTaskComponent implements OnInit {
   showAddTask: boolean = false;
   subscription?: Subscription;
 
-  id:number = 7;
+  // id:number = 7;
   
  
   
@@ -37,10 +37,14 @@ export class AddTaskComponent implements OnInit {
       return
     }
 
-    const {text,day,reminder,id} = this
-    const newTask = {text,day,reminder,id}
+    const {text,day,reminder} = this
+    const newTask = {text,day,reminder}
     
     this.onAddTask.emit(newTask);
+
+    this.text="";
+    this.day="";
+
 
   }
 
