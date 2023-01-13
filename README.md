@@ -1,4 +1,4 @@
-# 📝TaskList 
+# 📝Task List 
 
 Este proyecto forma parte de los ejercicios de Argentina Programa.  
 Se trata de una Lista de Tareas donde podemos agregar, eliminar, y marcar como realizadas las tareas.  
@@ -28,7 +28,7 @@ Para correr la aplicación web se debe:
 * Iniciar el servidor de JSON server para simular una DB, en una nueva consola ejecutar:  
 `json-server --watch db.json`
 
-* Abrir el navegador y probar la aplicación:  
+* Abrir el navegador y probar la aplicación, por defecto se encontrará en:    
 `http://localhost:4200`
 
 
