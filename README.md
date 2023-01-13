@@ -8,7 +8,7 @@ Realizado con Angular version 14.2.4.
 
 ## Imágenes
 
-![Imagen app Task List](https://i.ibb.co/hsF9n8n/Task-List-Juntos.png)
+![Imagen Task List](https://i.ibb.co/hsF9n8n/Task-List-Juntos.png)
 
 
 
