@@ -1,14 +1,15 @@
 # 📝TaskList 
 
 Este proyecto forma parte de los ejercicios de Argentina Programa.
-
 Se trata de una Lista de Tareas donde podemos agregar, eliminar, y marcar como realizadas las tareas.
-
 Realizado con Angular version 14.2.4.
+
+
 
 ## Imágenes
 
-![Imagen app Task List](https://ibb.co/HnpVNHC)
+![Imagen app Task List](https://i.ibb.co/syJ25VC/Task-List.png)
+
 
 
 ## Ejecución
