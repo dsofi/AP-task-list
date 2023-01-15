@@ -1,18 +1,18 @@
 # 📝Task List 
 
 Este proyecto forma parte de los ejercicios de Argentina Programa.  
-Se trata de una Lista de Tareas donde podemos agregar, eliminar, y marcar como realizadas las tareas.  
+Se trata de una Lista de Tareas donde podemos agregar, eliminar, y mostrar de manera diferenciada las tareas que tienen un recordatorio.  
 Realizado con Angular version 14.2.4.
 
 
 
-## Imágenes
+## :unicorn: Gif
 
-![Imagen Task List](https://i.postimg.cc/qBZpG9Z2/TaskList.png)
+![Gif Task List](https://media.giphy.com/media/PF4DsNnlqHs2Mmchs1/giphy.gif)
 
 
 
-## Ejecución
+## :hatching_chick: Ejecución
 
 Para correr la aplicación web se debe:
 
